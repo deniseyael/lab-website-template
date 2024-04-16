@@ -174,7 +174,8 @@ def cite_with_manubot(_id):
 
     # run Manubot
     try:
-        commands = ["manubot", "cite", _id, "--log-level=WARNING"]
+        print(">>>", _id)
+        commands = ["manubot", "cite",  "--log-level=WARNING", "--", _id ]
         output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
     except Exception as e:
         log(e, 3)

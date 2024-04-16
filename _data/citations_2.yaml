@@ -1,0 +1,343 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1145/3610978.3640727
+  title: "The Space Between Us: Bridging Human and Robotic Worlds in Space Exploration"
+  authors:
+    - Divya Dolly Patel
+    - Denise Y. Geiskkovitch
+  publisher:
+    Companion of the 2024 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: "2024-03-11"
+  link: https://doi.org/gtmm2z
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3544548.3581350
+  title:
+    "Dr.\u2019s Eye: The Design and Evaluation of a Video Conferencing System\
+    \ to Support Doctor Appointments in Home Settings"
+  authors:
+    - Dongqi Han
+    - Denise Y. Geiskkovitch
+    - Ye Yuan
+    - Chelsea Mills
+    - Ce Zhong
+    - Amy Yo Sue Chen
+    - Wolfgang Stuerzlinger
+    - Carman Neustaedter
+  publisher:
+    Proceedings of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: "2023-04-19"
+  link: https://doi.org/gtj32d
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3544548.3581142
+  title:
+    "Remote Wavelength: Design and Evaluation of a System for Social Connectedness
+    Through Distributed Tabletop Gameplay"
+  authors:
+    - Chelsea Mills
+    - Denise Y. Geiskkovitch
+    - Carman Neustaedter
+    - William Odom
+    - Benett Axtell
+  publisher:
+    Proceedings of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: "2023-04-19"
+  link: https://doi.org/gtj32f
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3544548.3581102
+  title:
+    "Sensing Their Presence: How Emerging Adults And Their Parents Connect After
+    Moving Apart"
+  authors:
+    - Hanieh Shakeri
+    - Denise Y. Geiskkovitch
+    - Radhika Garg
+    - Carman Neustaedter
+  publisher:
+    Proceedings of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: "2023-04-19"
+  link: https://doi.org/gtj32g
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3568294.3580161
+  title: Social Robots to Encourage Play for Children with Disabilities
+  authors:
+    - Raquel Thiessen
+    - Minoo Dabiri
+    - Denise Y. Geiskkovitch
+    - Jacquie Ripat
+    - James Everett Young
+  publisher:
+    Companion of the 2023 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: "2023-03-13"
+  link: https://doi.org/gtj32h
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12369-023-01001-4
+  title:
+    "Face to Face with a Sexist Robot: Investigating How Women React to Sexist
+    Robot Behaviors"
+  authors:
+    - Diljot Garcha
+    - Denise Geiskkovitch
+    - Raquel Thiessen
+    - Susan Prentice
+    - Kerstin Fischer
+    - James Young
+  publisher: International Journal of Social Robotics
+  date: "2023-04-30"
+  link: https://doi.org/gtmm22
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/icom-2022-0047
+  title: "Say what you want, I\u2019m not listening!"
+  authors:
+    - "Adriana Lorena Gonz\xE1lez"
+    - Denise Y. Geiskkovitch
+    - James E. Young
+  publisher: i-com
+  date: "2023-03-10"
+  link: https://doi.org/gtmm23
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3500868.3559444
+  title:
+    "The Needs of Grandparents and Grandchildren in a Socially and Geographically
+    Distanced World: A Case Study"
+  authors:
+    - Denise Y. Geiskkovitch
+    - "Marilena M\xFCller"
+    - Carman Neustaedter
+  publisher:
+    Companion Publication of the 2022 Conference on Computer Supported Cooperative
+    Work and Social Computing
+  date: "2022-11-08"
+  link: https://doi.org/gtj32j
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3514234
+  title:
+    A Scenario-Based Study of Doctors and Patients on Video Conferencing Appointments
+    from Home
+  authors:
+    - Dongqi Han
+    - Yasamin Heshmat
+    - Denise Y. Geiskkovitch
+    - Zixuan Tan
+    - Carman Neustaedter
+  publisher: ACM Transactions on Computer-Human Interaction
+  date: "2022-10-20"
+  link: https://doi.org/gtmm24
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-62056-1_18
+  title:
+    "Blind Trust: How Making a Device Humanoid Reduces the Impact of Functional
+    Errors on Trust"
+  authors:
+    - Christopher Vattheuer
+    - Annalena Nora Baecker
+    - Denise Y. Geiskkovitch
+    - Stela Hanbyeol Seo
+    - Daniel J. Rea
+    - James E. Young
+  publisher: Social Robotics
+  date: "2020-01-01"
+  link: https://doi.org/gtmm25
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3406499.3418749
+  title: Domestic Robots for Individuals Living With Loneliness
+  authors:
+    - Rahatul Amin Ananto
+    - Denise Y. Geiskkovitch
+    - James E. Young
+  publisher: Proceedings of the 8th International Conference on Human-Agent Interaction
+  date: "2020-11-10"
+  link: https://doi.org/gtmm26
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3371382.3378279
+  title: Emotional Support Domestic Robots for Healthy Older Adults
+  authors:
+    - Annalena Nora Baecker
+    - Denise Y. Geiskkovitch
+    - "Adriana Lorena Gonz\xE1lez"
+    - James E. Young
+  publisher:
+    Companion of the 2020 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: "2020-03-23"
+  link: https://doi.org/ghgpdg
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3371382.3378295
+  title: Social Robots Don't Do That
+  authors:
+    - Denise Y. Geiskkovitch
+    - James E. Young
+  publisher:
+    Companion of the 2020 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: "2020-03-23"
+  link: https://doi.org/ghbqv5
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3406499.3415080
+  title: Where Should I Sit?
+  authors:
+    - Denise Y. Geiskkovitch
+    - Daniel J. Rea
+    - Agape Y. Seo
+    - Stela H. Seo
+    - Brittany Postnikoff
+    - James E. Young
+  publisher: Proceedings of the 8th International Conference on Human-Agent Interaction
+  date: "2020-11-10"
+  link: https://doi.org/gtmm27
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HRI.2019.8673024
+  title:
+    "What? That's Not a Chair!: How Robot Informational Errors Affect Children's
+    Trust Towards Robots"
+  authors:
+    - Denise Y. Geiskkovitch
+    - Raquel Thiessen
+    - James E. Young
+    - Melanie R. Glenwright
+  publisher:
+    2019 14th ACM/IEEE International Conference on Human-Robot Interaction
+    (HRI)
+  date: "2019-03-01"
+  link: https://doi.org/gtmm28
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3284432.3284447
+  title: Subliminal Priming in Human-Agent Interaction
+  authors:
+    - Elaheh Sanoubari
+    - Denise Y. Geiskkovitch
+    - Diljot S. Garcha
+    - Shahed A. Sabab
+    - Kenny Hong
+    - James E. Young
+    - Andrea Bunt
+    - Pourang Irani
+  publisher: Proceedings of the 6th International Conference on Human-Agent Interaction
+  date: "2018-12-04"
+  link: https://doi.org/gm35m3
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3029798.3034782
+  title: Wizard of Awwws
+  authors:
+    - Daniel J. Rea
+    - Denise Geiskkovitch
+    - James E. Young
+  publisher:
+    Proceedings of the Companion of the 2017 ACM/IEEE International Conference
+    on Human-Robot Interaction
+  date: "2017-03-06"
+  link: https://doi.org/ghbq34
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2856767.2856814
+  title:
+    Exploring User Attitudes Towards Different Approaches to Command Recommendation
+    in Feature-Rich Software
+  authors:
+    - Michelle Wiebe
+    - Denise Y. Geiskkovitch
+    - Andrea Bunt
+  publisher:
+    Proceedings of the 21st International Conference on Intelligent User
+    Interfaces
+  date: "2016-03-07"
+  link: https://doi.org/gtmm29
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85031735991
+  title:
+    "Icons for kids: Can young children understand graphical representations
+    of app store categories?"
+  authors:
+    - Michelle Wiebe
+    - Denise Y. Geiskkovitch
+    - Andrea Bunt
+    - James E. Young
+    - Melanie R. Glenwright
+  publisher: Proceedings - Graphics Interface
+  date: "2016"
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85031735991&partnerID=MN8TOARS
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1541931213601411
+  title: "PARO\u2019s Stress-Reduction Potential for Older Adults"
+  authors:
+    - Sean A. McGlynn
+    - Denise Geiskkovitch
+    - Tracy L. Mitzner
+    - Wendy A. Rogers
+  publisher: Proceedings of the Human Factors and Ergonomics Society Annual Meeting
+  date: "2016-09-01"
+  link: https://doi.org/ghx4v9
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2701973.2702723
+  title: Autonomy, Embodiment, and Obedience to Robots
+  authors:
+    - Denise Geiskkovitch
+    - Stela Seo
+    - James E. Young
+  publisher:
+    Proceedings of the Tenth Annual ACM/IEEE International Conference on
+    Human-Robot Interaction Extended Abstracts
+  date: "2015-03-02"
+  link: https://doi.org/ghbqjm
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2696454.2696471
+  title: Poor Thing! Would You Feel Sorry for a Simulated Robot?
+  authors:
+    - Stela H. Seo
+    - Denise Geiskkovitch
+    - Masayuki Nakane
+    - Corey King
+    - James E. Young
+  publisher:
+    Proceedings of the Tenth Annual ACM/IEEE International Conference on
+    Human-Robot Interaction
+  date: "2015-03-02"
+  link: https://doi.org/ggbn8j
+  orcid: 0000-0003-0447-1953
+  plugin: orcid.py
+  file: orcid.yaml

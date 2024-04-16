@@ -2,14 +2,11 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are located in the A.N. Burns Science Building at McMaster University - 1280 Main St. W, Hamilton, Ontario, Canada. If you would like to get in touch with us, please send us an email and we'll respond as soon as possible.
 
 {%
   include button.html
@@ -19,59 +16,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/A.N.+Bourns+Science+Building/@43.2601785,-79.9243524,16z/data=!3m2!4b1!5s0x882c84ad9dfe1235:0xdb78b1e8d501d9c!4m6!3m5!1s0x882c84ad79fef92d:0x942c03db0b3141f7!8m2!3d43.2601785!4d-79.9217775!16s%2Fg%2F11bxgn4cv9?entry=ttu"
 %}
 
 {% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

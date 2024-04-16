@@ -1,11 +1,10 @@
 ---
-title: Team
+title: People
 nav:
   order: 3
-  tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# Team
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -13,23 +12,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+## Professors
 
-{% include section.html background="images/background.jpg" dark=true %}
+<div style="display: flex; flex-wrap: wrap;">
+{% include list.html data="members" component="portrait" filters="role:prof" %}
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Graduate Students
 
-{% include section.html %}
+<div style="display: flex; flex-wrap: wrap;">
+  {% include list.html data="members" component="portrait" filters="role:m" %}
+</div>
 
-{% capture content %}
+## Undergraduate Students
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+<div style="display: flex; flex-wrap: wrap;">
+{% include list.html data="members" component="portrait" filters="role:u" %}
+</div>

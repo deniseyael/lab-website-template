@@ -1,22 +1,11 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The Human-Robot interactioN (HuRoN) lab at McMaster University, in Hamilton, Canada specializes in exploring new and innovative areas of human-robot interaction, human-computer interaction, and assistive robotics. We are dedicated to having a fun, collaborative, and inclusive space where students can engage in research activities and play with robots.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+We are always looking for new members to join the team. Right now we specifically have positions available for one PhD student and one Post-Doctoral Fellow!
 
 {% include section.html %}
 
@@ -24,7 +13,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We publish in top tier venues such as ACM CHI and ACM/IEEE HRI.
 
 {%
   include button.html
@@ -39,15 +28,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/space2.png"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects are varied, often interdisciplinary, and range from developing robot behaviours for young children to companion robots for older adults.
 
 {%
   include button.html
@@ -62,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/learning.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -72,12 +61,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are diverse and inclusive group of people from around the globe.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our group"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -87,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab2.jpg"
   link="team"
   title="Our Team"
   text=text

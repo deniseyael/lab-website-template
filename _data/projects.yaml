@@ -1,47 +1,31 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Learning by Demonstration
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/learning.png
+  #link: https://github.com/
+  description: This project explores whether targeted robot errors, in a learning-by-demonstration scenario, can improve children's learning.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - learning
+    - robot errors
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Social Robot Navigation
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/turtlebot.png
+  #link: https://github.com/
+  description: This project involves the development and testing of a socially appropriate robot navigation algorithm.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - robot navigation
+    - field study
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Human-Robot Interaction for Space Exploration
+  # subtitle: featured
+  group: featured
+  image: images/space.png
+  #link: https://github.com/
+  description: The goal of this project is to expand our knowledge of Human-Robot Interaction research for space applications
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - space HRI
