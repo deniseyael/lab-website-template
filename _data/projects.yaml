@@ -6,8 +6,6 @@
   description: This project explores whether targeted robot errors, in a learning-by-demonstration scenario, can improve children's learning.
   # repo: greenelab/lab-website-template
   tags:
-    - learning
-    - robot errors
 
 - title: Social Robot Navigation
   # subtitle: a subtitle
@@ -17,8 +15,6 @@
   description: This project involves the development and testing of a socially appropriate robot navigation algorithm.
   # repo: greenelab/lab-website-template
   tags:
-    - robot navigation
-    - field study
 
 - title: Human-Robot Interaction for Space Exploration
   # subtitle: featured
@@ -28,4 +24,3 @@
   description: The goal of this project is to expand our knowledge of Human-Robot Interaction research for space applications
   # repo: greenelab/lab-website-template
   tags:
-    - space HRI

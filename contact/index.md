@@ -11,8 +11,8 @@ We are located in the A.N. Burns Science Building at McMaster University - 1280 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email"
+  link="geiskkod@mcmaster.ca"
 %}
 {%
   include button.html

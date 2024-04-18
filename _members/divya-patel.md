@@ -1,10 +1,8 @@
 ---
 name: Divya Patel
-image: images/photo.jpg
+image: images/divya.jpeg
 role: undergrad
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+aliases:
+  - Divya Dolly Patel
+  - Divya
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
