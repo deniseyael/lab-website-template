@@ -5,7 +5,7 @@
 
 The Human-Robot interactioN (HuRoN) lab at McMaster University, in Hamilton, Canada specializes in exploring new and innovative areas of human-robot interaction, human-computer interaction, and assistive robotics. We are dedicated to having a fun, collaborative, and inclusive space where students can engage in research activities and play with robots.
 
-We are always looking for new members to join the team. Right now we specifically have positions available for one PhD student and one Post-Doctoral Fellow!
+We are always looking for new members to join the team!
 
 {% include section.html %}
 
